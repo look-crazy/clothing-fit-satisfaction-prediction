@@ -188,6 +188,13 @@ project/
 
 ---
 
+
+## Dataset
+
+This project uses the Rent the Runway dataset from Kaggle.
+
+Dataset Link:
+https://www.kaggle.com/datasets/rmisra/clothing-fit-dataset-for-size-recommendation
 ## 👨‍💻 Author
 
 Park Cheolhan
